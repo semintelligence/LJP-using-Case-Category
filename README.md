@@ -2,7 +2,7 @@
 
 The repository contains the full codebase of experiments and results of the paper "CloLex: Exploring Closed Lexicals for LegalTech".
 
-##Overview
+## Overview
 This project focuses on leveraging Artificial Intelligence to enhance the efficiency of the judicial system, particularly in predicting legal judgments. As of 2022, the Supreme Court of India faces a backlog of over 70,000 cases, highlighting the need for innovative solutions to expedite the legal process.
 
 Our contributions can be summarized as below:
